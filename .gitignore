@@ -1,0 +1,4 @@
+#list of file to be ignored
+*.csv
+conn.py
+*.pyc
