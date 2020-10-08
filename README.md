@@ -15,9 +15,10 @@ port='XXXXXXX'
 
 - il tool può essere personalizzato con altri campi. Nei commenti è specificato abbastanza bene come e dove
 
-- i campi id1 e id2 sono descritti meglio rispettivamente nelle seguenti tabelle del DB:
+- i campi id1 e id2 sono descritti meglio rispettivamente nelle seguenti tabelle del DB (uo sta per Unità Operativa):
   - users.uo_1_livello 
   - users.uo_2_livello
+  a titolo di esempio nel caso di *Gruppo Genova - Sezione Val Polcevera*:  *id1* corrisponde a *Gruppo Genova*, *id2* corrisponde a *Sezione Val Polcevera*
 
 - il tool crea automaticamente un file di log nella cartella tempooranea del sistema operativo
 
