@@ -4,15 +4,15 @@ Tool python per inserimento massivo di utenti esterni al DB del sistema emergenz
 - Il tool richiede come input un file csv con i nominativi dei volontari
 - il tool richiede un file conn.py con le credenziali del DB a cui connettersi 
 
-'''
+```
 ip='XXXXXXX'
 db='XXXXXXX'
 user='XXXXXXX'
 pwd='XXXXXXX'
 port='XXXXXXX'
-'''
+```
 
-- il tool può essere personalizzato
+- il tool può essere personalizzato con altri campi. Nei commenti è specificato abbastanza bene come e dove
 
 - il tool crea automaticamente un file di log nella cartella tempooranea del sistema operativo
 
